@@ -4,7 +4,6 @@
 	background-color:grey;
 	padding:10px;
 	border-radius:10px;
-
 }
 img{
 	border-radius: 25px;
@@ -23,4 +22,6 @@ img{
 	grid-template-columns:repeat(3, 1fr);
 	margin:10px;
 }
-
+.bg{
+	background-color:black;
+}
