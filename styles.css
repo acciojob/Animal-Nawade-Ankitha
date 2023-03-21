@@ -16,9 +16,11 @@ img{
 	text-align:center;
 	color:white;
 	margin:0;
+	font-weight:normal;
 }
 #imgs{
 	display:grid;
 	grid-template-columns:repeat(3, 1fr);
 	margin:10px;
 }
+
