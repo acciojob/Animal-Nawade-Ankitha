@@ -2,13 +2,13 @@
 #animal-photos {
 	display:grid;
 	position:absolute;
-	gap:10px;
+/* 	gap:10px; */
 	background-color:grey;
 	padding:15px;
 }
 img{
 	border-radius: 25px;
-	padding:8px;
+	padding:10px;
 	
 }
 #photo-heading{
